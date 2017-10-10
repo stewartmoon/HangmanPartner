@@ -1,0 +1,5 @@
+﻿  HangmanSource.cpp
+c:\users\stewartmoon\desktop\hangman\hangman\hangmansource.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\stewartmoon\desktop\hangman\hangman\hangmansource.cpp(158): warning C4018: '<': signed/unsigned mismatch
+  Hangman.vcxproj -> C:\Users\StewartMoon\Desktop\Hangman\Debug\Hangman.exe
+  Hangman.vcxproj -> C:\Users\StewartMoon\Desktop\Hangman\Debug\Hangman.pdb (Full PDB)
